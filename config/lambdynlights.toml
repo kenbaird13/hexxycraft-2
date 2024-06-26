@@ -24,29 +24,32 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				glow_item_frame = false
 				player = true
-				pig = true
-				bat = true
 				creeper = true
+				bat = true
+				chest_minecart = true
+				spider = true
 				zombie = true
 				skeleton = true
-				axolotl = true
-				enderman = true
-				glow_squid = true
-				spider = true
-				chest_minecart = true
-				squid = true
-				item = true
-				rabbit = true
-				cow = true
+				witch = true
 				chicken = true
-				parrot = true
-				cod = true
+				tnt_minecart = true
+				minecart = true
+				furnace_minecart = true
+				cow = true
 				drowned = true
-				bee = true
-				dolphin = true
 				sheep = true
-				turtle = true
+				pig = true
+				glow_squid = true
+				squid = true
+				zombie_villager = true
+				wolf = true
+				cat = true
+				item = true
+				enderman = true
+				donkey = true
+				bee = true
+				salmon = true
 
-			[light_sources.settings.entities.immersive_portals]
-				portal = true
+			[light_sources.settings.entities.artifacts]
+				mimic = true
 
