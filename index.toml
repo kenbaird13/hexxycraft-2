@@ -234,7 +234,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
+hash = "4206f9a4f04d9a1643fa579c2b268975d3d9901e420b4aa24ca49638818a9b16"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
@@ -289,12 +289,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "77869d93c42af42103f4cbfd8201939846a73008d8f6790fb1caff830991d4eb"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "15c7fbfee4765f2ae43469ffbc3b424bbdd6b57b0d68bef4892af53d3be14185"
+hash = "f75b4f0c495acefc0d1f63900b22b983d94dbf8ecaf6d6de9e129a99ac229918"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "743f7771e9a61a88321c8212b654e943fb29fbe28eb9288677432535083de56f"
 metafile = true
 
 [[files]]
@@ -448,9 +448,8 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug.pw.toml"
-hash = "3c24c6e494e624b29b18092fc55661cbb5aa03c3f7b4208ac6215e50d0ea58ff"
-metafile = true
+file = "mods/hexdebug-fabric-0.2.2+1.19.2.jar"
+hash = "e724c298c5d2e8ff5a696887574b84efae6b8ebf6b17d1a3cadcad5325092d20"
 
 [[files]]
 file = "mods/hexgloop.pw.toml"
@@ -489,12 +488,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexvr.pw.toml"
-hash = "6d11dbaa237954e80eed69fb04fe19eafa8e8c3083ea6f3a34b35dcb96b0a7cd"
+hash = "149d43a9d69323b79321bb684b570517766aafc0943576588e3d4a5f01fb0910"
 metafile = true
 
 [[files]]
 file = "mods/ibe-editor.pw.toml"
-hash = "8bb55151bc717c688b5a1dfa4596883023ab05ff077e3ee765d21ae670fdd274"
+hash = "fb2bee62829501954df525b17ccc09deafd17345e1cc6a136cf1d4cc6b5f5f8b"
 metafile = true
 
 [[files]]
@@ -720,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "a0a0fb8b0139bafbb49656315a044ae52bc61ba6552091fba3071e0cee3d56f5"
 metafile = true
 
 [[files]]
