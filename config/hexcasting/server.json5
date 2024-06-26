@@ -1,6 +1,6 @@
 {
 	"opBreakHarvestLevel": 3,
-	"maxRecurseDepth": 512,
+	"maxRecurseDepth": 65536,
 	"maxSpellCircleLength": 1024,
 	"actionDenyList": [],
 	"circleActionDenyList": [],
