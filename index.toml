@@ -196,6 +196,11 @@ hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
 metafile = true
 
 [[files]]
+file = "mods/hex-ways.pw.toml"
+hash = "864b2b5c6fe4dbf1958d8db528a970406a687d1e349ec46b7ba40ced21e23453"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
 metafile = true
